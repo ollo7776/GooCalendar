@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">GooCalendar</string>
+    <string name="yes">JA</string>
+    <string name="no">NEIN</string>
+    <string name="ok">OK</string>
+    <string name="save">SPEICHERN</string>
+    <string name="edit_fields_que">Bitte korrigieren Sie zuerst die Formularfelder mit Fragezeichen. Click button EDIT</string>
+</resources>
